@@ -1,0 +1,18 @@
+<! -- Here is the code for my shopping-->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <section name="clothes">
+    <entry>
+      <item>Cropped</item>
+      <price>10.00</price>
+    </entry>
+    <entry>
+      <item>Trouser</item>
+      <price>15</price>
+    </entry>
+    <entry vegetarian="true">
+      <item>Jacket</item>
+      <price>30.0</price>
+    </entry>
+  </section>
+</menu>
